@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          <h1>Phillip ist doof</h1>
+          <h1>Hab dich lieb ^°^</h1>
           Learn React
         </a>
       </header>
