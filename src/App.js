@@ -15,10 +15,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <h1>Phillip ist doof</h1>
           Learn React
         </a>
       </header>
-      <h1>Phillip ist doof</h1>
     </div>
     
   );
